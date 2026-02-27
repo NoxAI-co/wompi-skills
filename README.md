@@ -1,8 +1,8 @@
 # Wompi — Cursor Agent Skill
 
-A comprehensive [Cursor Agent Skill](https://docs.cursor.com/context/skills) for integrating [Wompi](https://wompi.co), Colombia's leading payment gateway (backed by Bancolombia).
+A comprehensive [Agent Skill](https://docs.cursor.com/context/skills) for integrating [Wompi](https://wompi.co), Colombia's leading payment gateway (backed by Bancolombia).
 
-This skill teaches Cursor's AI agent how to generate secure, production-ready code for Wompi integrations in **Node.js**, **Python**, and **PHP**.
+This skill teaches AI agents how to generate secure, production-ready code for Wompi integrations in **Node.js**, **Python**, and **PHP**.
 
 ## What's Covered
 
